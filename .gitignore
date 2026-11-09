@@ -4,3 +4,5 @@ __pycache__/
 *.pyc
 .streamlit/secrets.toml
 dataset/
+fraud_detection_results.csv
+sample_actual_labels.csv
